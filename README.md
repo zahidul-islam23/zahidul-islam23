@@ -1,31 +1,65 @@
-# 💫 About Me:
-🔭 Currently working on WordPress Website, Frontend Design, Digital Marketing & SEO<br>  
-🌱 Learning and growing in Web Development every day<br>  
-💬 Ask me anything about Coding, Web Design, or Technical Stuff<br>  
-🚀 Focused on building beautiful and functional websites<br>
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-## 🌐 Connect With Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/zahidulislam.naim/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/zahidul_islam_naim/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahidul-islam-naim23)
+<h1 align="center">Hi 👋, I'm Zahidul Islam</h1>
+<h3 align="center">Full Stack Web Developer | WordPress Specialist | UI/UX Enthusiast</h3>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zahidul-islam23&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidul-islam23&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=zahidul-islam23&label=Profile%20views&color=0e75b6&style=flat" alt="zahidul-islam23" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zahidul-islam23&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+- 🔭 I’m currently working on: **WordPress websites, custom UI/UX frontend designs, and SEO optimization.**
+
+- 🌱 I’m currently learning: **React.js, Next.js, and modern frontend frameworks.**
+
+- 👯 I’m looking to collaborate on: **Full Stack or WordPress projects.**
+
+- 💬 Ask me about: **HTML, CSS, JavaScript, PHP, Tailwind, Bootstrap, WordPress, SEO.**
+
+- 📫 How to reach me: **zahidulislamnaim23@gmail.com**
+
+- ⚡ Fun fact: **I break things to build better things 😅**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zahidul-islam23&icon=8&color=1)](https://visitcount.itsvg.in)
 
-<!-- Built with ❤️ by Zahidul Islam -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/zahidul-islam23" target="_blank">
+    <img src="https://img.shields.io/github/followers/zahidul-islam23?label=Follow&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/zahidul-islam-naim23/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://www.facebook.com/zahidulislam.naim/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/zahidul_islam_naim/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidul-islam23&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidul-islam23&layout=compact&theme=tokyonight" height="150" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidul-islam23&theme=tokyonight" />
+</p>
